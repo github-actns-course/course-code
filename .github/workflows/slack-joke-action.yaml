@@ -1,4 +1,4 @@
-name: Simple Action
+name: Composite Action
 on: [push]
 
 jobs:
